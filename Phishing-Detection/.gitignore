@@ -1,0 +1,20 @@
+# Large dataset hosted on Zenodo
+data/raw/Phishing Dataset V2.0.zip
+
+# Extracted datasets
+data/raw/Phishing Dataset V2.0/
+
+# Processed data
+data/processed/
+
+# Model files
+models/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
